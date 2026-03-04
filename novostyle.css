@@ -1,0 +1,26 @@
+header{
+ background: #BBBBBB;
+ padding: 20px;
+}
+
+body{
+    position: relative;
+    width: 1080px;
+    margin: 0;
+}
+
+nav{
+    position: absolute;
+    margin-top: 110px;
+    padding-left: 110px;
+}
+
+nav a{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 150%;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
